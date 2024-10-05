@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**asc2563/asc2563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack dev that is current working on aluben.
+my pronouns are he/him/his
 
-Here are some ideas to get you started:
+my discord user id is 1008809415375335576. this probably doesn't mean anything to you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm mainy a javascript/typescript developer, but I also write other languages.
+
+[Aluben-services](https://github.com/Aluben-service)
+<br />
+<br />
+### my skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,react,next,vite,dotnet,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,postman,stackoverflow&perline=13)](#)
