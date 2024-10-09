@@ -12,4 +12,4 @@ I'm mainy a javascript/typescript developer, but I also write other languages.
 <br />
 ### my skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,react,next,svelte,atom,docker,vite,visualstudio,debian,ubuntu,windows,webpack,astro,notion,discord,sublime,npm,pnpm,deno,dotnet,expressjs,nodejs,mongodb,md,ai,git,github,vscode,sass,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,jquery,python,powershell,react,next,svelte,atom,docker,vite,visualstudio,debian,ubuntu,windows,webpack,astro,notion,discord,sublime,npm,pnpm,deno,devto,dotnet,github,vercel,netlify,flask,expressjs,nodejs,bun,neovim,mongodb,md,ai,git,github,vscode,sass,postman,stackoverflow&perline=15)](#)
