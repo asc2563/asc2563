@@ -4,9 +4,9 @@
 my pronouns are he/him/his and
 my discord user id is 1008809415375335576. this probably doesn't mean anything to you.
 I'm mainy a javascript/typescript developer, but I also write other languages.
-
-![](https://github-contributor-𝚂𝚝𝚊𝚝𝚜.vercel.app/api?username=asc2563&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+![asc2563's Stats](https://github-readme-stats.vercel.app/api?username=asc2563&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![asc2563's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asc2563&theme=vue-dark&hide_border=true)
+![asc2563's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asc2563&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 [Aluben-services](https://github.com/Aluben-service)
 <br />
 <br />
