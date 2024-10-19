@@ -2,7 +2,7 @@
 
 </> I'm a full stack dev that is current working on aluben.
 my pronouns are he/him/his and
-my discord user id is 1008809415375335576. this probably doesn't mean anything to you.
+my discord is [asc2563](https://discord.com/users/1008809415375335576). this probably doesn't mean anything to you.
 I'm mainy a javascript/typescript developer, but I also write other languages.
 ![asc2563's Stats](https://github-readme-stats.vercel.app/api?username=asc2563&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![asc2563's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asc2563&theme=vue-dark&hide_border=true)
